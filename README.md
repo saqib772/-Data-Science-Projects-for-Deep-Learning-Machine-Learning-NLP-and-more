@@ -27,7 +27,7 @@ Tools
     - [Breast Cancer Analysis](https://github.com/melvfnz/data_science_portfolio/blob/master/Breast%20Cancer%20Analysis.ipynb)
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
-    - [LinkedIn](https://www.linkedin.com/in/melvfernandez/)
-    - [Twitter](https://twitter.com/melvfnz)
+    - [LinkedIn]https://www.linkedin.com/in/saqib-iqbal-a32bb3267/
+    - [Twitter] https://twitter.com/saqib77782871
   
 
